@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @abdulmujeebshoeb
+- 👀 I’m interested in DevOps and Cloud Technologies
+- 🌱 I’m currently learning Linux,Jenkins,Terraform,Kubernetes,Ansible,Linux
+- 💞️ I’m looking to collaborate on Kubernetes
+- 📫 You can reach me out at mujabdul94@gmail.com
+- 😄 Pronouns: Bat/Man
+- ⚡ Fun fact: I was once flagged by the superusers of an OpenSource company to be using the product for profit without informing when I was just practising lol 
